@@ -1,0 +1,2 @@
+s1a s1x s1i s1s s2a s2x s2i s2s s3a s3x s3i s3s d1a d1s d2a d2s h1a h1x h1i t1a t1x t1i b1a b1x b1i p1a p1x p1i p1s tia tix tii vxa vxx vxi bla blx bli bra brx bri 
+s1_slope=0000 s1_offset=0000 s2_slope=0000 s2_offset=0000 s3_slope=0000 s3_offset=0000 d1_offset=0000 d2_offset=0000 h1_slope=0100 t1_slope=0100 t1_offset=0030 b1_slope=0060 b1_offset=0800 p1_slope=0000 p1_offset=0000 
