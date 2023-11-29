@@ -5,7 +5,47 @@ Columns in the CSV file are:
 date, time, period, s1a, s1x, s1i, s1s, s2a, s2x, s2i, s2s, s3a, s3x, s3i, s3s, d1a, d1s, d2a, d2s, h1a, h1x, h1i, t1a, t1x, t1i, b1a, b1x, b1i, p1a, p1x, p1i, p1s, tia, tix, tii, vxa, vxx, vxi, bla, blx, bli, bra, brx, bri. 
 
 where each column represents:  
-s1a (Wind Speed 1 mean), s1x (Wind Speed 1 max), s1i (Wind Speed 1 min), s1s (Wind Speed 1 Sigma), s2a (Wind Speed 2 mean), s2x (Wind Speed 2 max), s2i (Wind Speed 2 min), s2s (Wind Speed 2 Sigma), s3a (Wind Speed 3 mean), s3x (Wind Speed 3 max), s3i (Wind Speed 3 min), s3s (Wind Speed 3 Sigma), d1a (Wind Direction 1 mean), d1s (Wind Direction 1 Sigma), d2a (Wind Direction 2 mean), d2s (Wind Direction 2 Sigma), h1a (Relative Humidity mean), h1x (Relative Humidity max), h1i (Relative Humidity min), t1a (Temperature mean), t1x (Temperature max), t1i(Temperature min), b1a (Air Pressure mean), b1x(Air Pressure max), b1i (Air Pressure min), p1a (Wind Speed 4 mean), p1x (Wind Speed 4 max), p1i (Wind Speed 4 min), p1s (Wind Speed 4 Sigma), tia (Temperature Internal mean), tix (Temperature Internal max), tii (Temperature Internal min), vxa (External Supply mean), vxx (External Supply max), vxi (External Supply min), bla(Battery left mean), blx (battery left max), bli (Battery left min), bra (Battery right mean), brx (Battery right max), bri (Battery right min). 
+s1a (Wind Speed 1 mean), 
+s1x (Wind Speed 1 max), 
+s1i (Wind Speed 1 min), 
+s1s (Wind Speed 1 Sigma), 
+s2a (Wind Speed 2 mean), 
+s2x (Wind Speed 2 max), 
+s2i (Wind Speed 2 min), 
+s2s (Wind Speed 2 Sigma), 
+s3a (Wind Speed 3 mean), 
+s3x (Wind Speed 3 max), 
+s3i (Wind Speed 3 min), 
+s3s (Wind Speed 3 Sigma), 
+d1a (Wind Direction 1 mean), 
+d1s (Wind Direction 1 Sigma), 
+d2a (Wind Direction 2 mean), 
+d2s (Wind Direction 2 Sigma), 
+h1a (Relative Humidity mean), 
+h1x (Relative Humidity max), 
+h1i (Relative Humidity min), 
+t1a (Temperature mean), 
+t1x (Temperature max), 
+t1i(Temperature min), 
+b1a (Air Pressure mean), 
+b1x(Air Pressure max), 
+b1i (Air Pressure min), 
+p1a (Wind Speed 4 mean), 
+p1x (Wind Speed 4 max), 
+p1i (Wind Speed 4 min), 
+p1s (Wind Speed 4 Sigma), 
+tia (Temperature Internal mean), 
+tix (Temperature Internal max), 
+tii (Temperature Internal min), 
+vxa (External Supply mean), 
+vxx (External Supply max), 
+vxi (External Supply min), 
+bla(Battery left mean), 
+blx (battery left max), 
+bli (Battery left min), 
+bra (Battery right mean), 
+brx (Battery right max), 
+bri (Battery right min). 
 
 Here is the raw data description: 
 	1. Wind Speed 101.5m (s1), Unit - 10 Hz, avg - 1, max - 2, min - 2, std - 4. 
